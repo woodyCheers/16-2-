@@ -1,0 +1,14 @@
+footer{
+	color: #888;
+	font-size: 14px;
+	position: fixed;
+	bottom: 10px;
+}
+ul{
+	list-style: none;
+}
+
+h2{
+	color: #66f;
+	text-align: center;
+}
